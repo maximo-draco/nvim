@@ -1,3 +1,4 @@
 {
-    "python.jediPath": "/mnt/data/_proyectos/_draco/sicar_env/lib/python3.9/site-packages"
+    "python.jediPath": "/mnt/data/_proyectos/_draco/sicar_env/lib/python3.9/site-packages",
+    "npm.binPath": "/usr/local/n/versions/node/14.17.6/bin/npm"
 }

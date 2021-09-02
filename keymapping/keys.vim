@@ -21,7 +21,7 @@ nnoremap <M-l>  :vertical resize +2<CR>
 vmap <C-_> <Plug>NERDCommenterToggle<cr>
 nmap <C-_> <Plug>NERDCommenterToggle<cr>
 
-nmap <leader>t :vsplit term://bash<cr>
+nmap <C-t> :split term://zsh<cr>
 
 " Move between buffers
 nnoremap <leader><tab> :bn<cr>
